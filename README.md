@@ -14,3 +14,7 @@ A PowerShell automation script designed to streamline the IT onboarding process 
 
 <h2>💼 Use Case:</h2>
 <p>Ideal for IT support teams, system administrators, or MSPs looking to <strong>reduce manual effort</strong>, <strong>standardize onboarding</strong>, and <strong>minimize errors</strong> in user provisioning.</p>
+
+Usage
+```powershell
+.\onBoarding.ps1 -FirstName "John" -LastName "Doe" -Username "jdoe" -Title "Support Tech"
