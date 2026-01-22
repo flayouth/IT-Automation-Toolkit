@@ -1,4 +1,4 @@
-<h1> onboarding.ps1 – IT User Onboarding Automation Script</h1>
+<h1>IT User Onboarding Automation Script</h1>
 
 <p><strong>Description:</strong><br>
 A PowerShell automation script designed to streamline the IT onboarding process for new hires in a Windows Active Directory environment. This tool automates common tasks including user account creation, group assignments, license provisioning, and initial access configuration.</p>
